@@ -1,0 +1,1 @@
+chroot ./vm/ /bin/bash
